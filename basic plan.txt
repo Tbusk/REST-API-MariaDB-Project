@@ -1,0 +1,19 @@
+user login page
+user account creation page
+
+credentials stored in MariaDB
+
+Account management page (manage current user's data)
+profile picture
+firstname
+lastname
+email
+phone number
+date of birth
+
+Get stored user data [Button] -> Output file
+
+delete account [Button] 
+
+lock down api using basic authentication / bearer authentication
+
